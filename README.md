@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Image text](https://github.com/CODEXGC/CODEXGC/blob/master/img/6.png)
-Yea, The above image is quite cool :P
-I am XuGuangchao! 
+Yea, The above image is quite cool :P  
+
+I am XuGuangchao!   
 ###Skill
 I am currently working on disease.sh and [My Personal Blog](https://www.ylesb.com/)!
 <!--
