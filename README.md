@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![Image text](https://github.com/CODEXGC/CODEXGC/blob/master/img/6.png)
-
+Yea, The above image is quite cool :P
+I am XuGuangchao! 
+###Skill
+I am currently working on disease.sh and [My Personal Blog](https://www.ylesb.com/)!
 <!--
 **CODEXGC/CODEXGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
