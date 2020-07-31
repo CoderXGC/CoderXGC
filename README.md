@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Image text](https://github.com/CODEXGC/CODEXGC/blob/master/img/QQ%E6%88%AA%E5%9B%BE20200731195442.png)
 
 <!--
 **CODEXGC/CODEXGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
