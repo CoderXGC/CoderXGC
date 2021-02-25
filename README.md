@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Image text](https://github.com/CODEXGC/CODEXGC/blob/master/img/6.png)
+![Image text](https://i.loli.net/2021/02/25/rZ1JknzALpsPITo.png)
 Yea, The above image is quite cool :P  
 
 I am XuGuangchao!   
