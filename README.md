@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![Image text](https://i.loli.net/2021/02/25/rZ1JknzALpsPITo.png)
-Yea, The above image is quite cool :P  
+👀Yea, The above image is quite cool :P  
 
-I am XuGuangchao!   
+🌱I am XuGuangchao!   
 ### Skill  
 
-I am currently working on disease.sh and [My Personal Blog](https://www.ylesb.com/)!  
+😄I am currently working on disease.sh and [My Personal Blog](https://www.ylesb.com/)!  
 
 
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
