@@ -1,8 +1,12 @@
 ### Hi there 👋
 ![Image text](https://i.loli.net/2021/02/25/rZ1JknzALpsPITo.png)
 👀Yea, The above image is quite cool :P  
+<div align=center>
+<img alt="Guangchao Xu" src="./img/tx.jpg" width=100 />
+</div>
 
 🌱I am XuGuangchao（in China）!   
+
 👋 Hi, I'm White,a passionate Full Stack Developer developer from China 🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +21,18 @@
 -  **Hobbies :** Tour :travel : & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [xgc](mailto:xgc@tom.com)
+-  [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/CoderXGC)
+-  ![Profile View Counter](https://komarev.com/ghpvc/?username=CoderXGC)
+
+
+## Analysis :point_down:
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXGC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderXGC&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://github-profile-trophy.vercel.app/?username=CoderXGC&theme=flat&column=7&margin-w=10)
+
 
 
 ### Languages and Tools
