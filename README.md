@@ -53,7 +53,7 @@
 ### My Personal Blog 
 
 😄I am currently working on disease.sh and [My Personal Blog](https://www.ylesb.com/)!  
-![Image text](https://i.loli.net/2021/11/29/pyIHGcArQ6DVid3.png)
+![Image text](https://i.loli.net/2021/11/29/Rm1SX7JWPBEDsat.png)
 
 
 <!--
