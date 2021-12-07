@@ -11,7 +11,29 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![JellyDong's github stats](https://github-readme-stats.vercel.app/api?username=CoderXGC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/CoderXGC)
+<p align="center">
+  <a href="https://github.com/CoderXGC">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoderXGC&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
+<!-[![JellyDong's github stats](https://github-readme-stats.vercel.app/api?username=CoderXGC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/CoderXGC)-->
+
+<p align="center">
+  <a href="https://gitee.com/https://gitee.com/coderxgc">
+    <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
+  </a>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=liLbX72kpXdZCOpElCOChGPzTyabLxbO&jump_from=webapi">
+    <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg" />
+  </a>
+  <a href="https://github.com/CoderXGC">
+    <img src="https://komarev.com/ghpvc/?username=CoderXGC&color=brightgreen&label=👁%20Views" />
+  </a>  
+</p>
+
+
+<p align="center">我是一名励志成为全栈开发技术的程序员，平时爱<b>瞎鼓捣</b>，<b>动手能力强</b> 。</p>
+
+<p align="center">我的理想是让这个世界没有<b>难开发</b>的项目，消灭一切<b>难维护</b>的代码。</p>
 
 
 ### About
