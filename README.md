@@ -19,7 +19,7 @@
 <!-[![JellyDong's github stats](https://github-readme-stats.vercel.app/api?username=CoderXGC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/CoderXGC)-->
 
 <p align="center">
-  <a href="https://gitee.com/https://gitee.com/coderxgc">
+  <a href="https://gitee.com/coderxgc">
     <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
   </a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=liLbX72kpXdZCOpElCOChGPzTyabLxbO&jump_from=webapi">
