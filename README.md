@@ -49,11 +49,10 @@
 <p align="center">我的理想是让这个世界没有<b>难开发</b>的项目，消灭一切<b>难维护</b>的代码。</p>
 
 <p align="center">
-  <a href="https://github.com/Quyunshuo">
     <img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/output/github-contribution-grid-snake.svg" />
-  </a>
 </p>
-### About
+
+## About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** JAVA,C, Python, Mysql and so on..（I will learn more in the future...）
