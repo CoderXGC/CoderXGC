@@ -1,6 +1,17 @@
 ### Hi there 👋
 ![Image text](https://i.loli.net/2021/02/25/rZ1JknzALpsPITo.png)
 👀Yea, The above image is quite cool :P  
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://psxjoy.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=System.out.println(%22Hello+World!%22)&center=true" alt="Typing SVG" />
+    </a>
+  </div>
+
+
+  <!-- profile logo 个人资料徽标 -->
 <div align=center>
 <img alt="Guangchao Xu" src="./img/tx.jpg" width=100 />
 </div>
