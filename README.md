@@ -58,7 +58,7 @@
 -  **Languages :** JAVA,C, Python, Mysql and so on..（I will learn more in the future...）
 -  **Hobbies :** Tour :travel : & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact-Email me :** [xgc(xgc@tom.com)](mailto:coderxgc@163.com)
+-  **Contact-Email me :** [xgc(coderxgc@163.com)](mailto:coderxgc@163.com)
 -  [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/CoderXGC)
 -  ![Profile View Counter](https://komarev.com/ghpvc/?username=CoderXGC)
 
